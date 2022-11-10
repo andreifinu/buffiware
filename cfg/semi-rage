@@ -1,0 +1,457 @@
+{
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Defusing": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Desync": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Ragdolls": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "Disable in freezetime": true,
+  "Draw legitbot fov": {
+    "Alpha": 0.25,
+    "Color": "#ffffff"
+  },
+  "ESP": {
+    "Allies": {
+      "Occluded": {
+        "Head Box": {
+          "Alpha": 1.0,
+          "Color": "#f90000",
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Alpha": 1.0,
+          "Color": "#ff5959",
+          "Enabled": true
+        }
+      }
+    },
+    "Enemies": {
+      "Occluded": {
+        "Enabled": true,
+        "Head Box": {
+          "Alpha": 1.0,
+          "Color": "#f60000",
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Alpha": 1.0,
+          "Color": "#f16e6e",
+          "Enabled": true
+        }
+      },
+      "Visible": {
+        "Enabled": true,
+        "Head Box": {
+          "Alpha": 1.0,
+          "Color": "#4bfd00",
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Alpha": 1.0,
+          "Color": "#f60000",
+          "Enabled": true
+        },
+        "Weapon": {
+          "Alpha": 1.0,
+          "Color": "#da00ff",
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Legitbot": [
+    {
+      "Auto scope": true,
+      "Fov": 0.03,
+      "Hitboxes": 3
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Min damage override Key": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Misc": {
+    "Animated clan tag": true,
+    "Auto accept": true,
+    "Auto pistol": true,
+    "Auto reload": true,
+    "Bunny hop": true,
+    "Clan tag": "BUFFIWARE ",
+    "Custom clan tag": true,
+    "Custom name": true,
+    "Grenade predict": true,
+    "Name": "",
+    "Noscope crosshair": {
+      "Enabled": true
+    },
+    "Recoil crosshair": {
+      "Enabled": true
+    },
+    "Reportbot": {
+      "Enabled": true,
+      "Rounds": 39
+    },
+    "Spectator list": {
+      "Pos": {
+        "X": 1668.0
+      }
+    },
+    "Watermark": {
+      "Pos": {
+        "X": -2.0,
+        "Y": -5.0
+      }
+    }
+  },
+  "Rage Anti aim": {
+    "Enabled": true,
+    "Manual backward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual forward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual left Key": {
+      "Key": "LEFT",
+      "Key mode": 3
+    },
+    "Manual right Key": {
+      "Key": "RIGHT",
+      "Key mode": 3
+    },
+    "Pitch": 2,
+    "Yaw base": 1
+  },
+  "Ragebot": [
+    {
+      "Auto shot": true,
+      "Enabled": true,
+      "Fov": 255.0,
+      "Hitboxes": 7,
+      "Hitchance": 80,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Min damage": 45,
+      "Multipoint": 24,
+      "Scoped only": false,
+      "Visible only": false
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Skin changer": [
+    {
+      "Definition index": 42,
+      "Definition override": 500,
+      "Enabled": true,
+      "Paint Kit": 558
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Definition index": 4,
+      "Enabled": true,
+      "Paint Kit": 48,
+      "Quality": 9
+    },
+    {},
+    {
+      "Definition index": 60,
+      "Enabled": true,
+      "Paint Kit": 217,
+      "Quality": 9
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Definition index": 61,
+      "Enabled": true,
+      "Paint Kit": 657,
+      "Quality": 9
+    },
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Triggerbot": [
+    {
+      "Hitboxes": 31,
+      "Min damage": 10
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "Bullet Impacts": {
+      "Enabled": true
+    },
+    "Bullet Tracers": {
+      "Enabled": true
+    },
+    "Molotov Hull": {
+      "Enabled": true
+    },
+    "No scope overlay": true,
+    "Smoke Hull": {
+      "Enabled": true
+    },
+    "Thirdperson": true,
+    "Thirdperson distance": 133,
+    "Thirdperson key": {
+      "Key": "V",
+      "Key mode": 3
+    }
+  }
+}
